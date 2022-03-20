@@ -41,7 +41,10 @@ This filter is showing us data where the:
 
 ## Summary
 ### Drawback
-Trough my analysis I came across a few draw backs. One being the search fields are "case-sensitive". For example if in the state search parameter I type in "Ca" or "CA", it wont return any results. Although we have put hints in the palceholders, we still cannont expect our users to understand those hints. Another thing I noticed could be a problem is that there is no "filter" button, and there aren't any instructions that notify the user to hit enter or to move to next filter to apply them. One more thing I noticed was that, this data was stored locally. Which means its not as easily updateable. It will be more convenient if the data was stored on a server where it is constantly being updated. This also provides the user with the most up to date information.
+Trough my analysis I came across a few draw backs. One being the search fields are "case-sensitive". For example if in the state search parameter I type in "Ca" or "CA", it wont return any results. Here is a sample outout:<br><br>
+<img src="/images/case-sensitive.png" alt="main-screen" width="950"><br>
+
+Although we have put hints in the palceholders, we still cannont expect our users to understand those hints. Another thing I noticed could be a problem is that there is no "filter" button, and there aren't any instructions that notify the user to hit enter or to move to next filter to apply them. One more thing I noticed was that, this data was stored locally. Which means its not as easily updateable. It will be more convenient if the data was stored on a server where it is constantly being updated. This also provides the user with the most up to date information.
 
 There are a few recommendations I can suggest which will help improve the user experience of the app. Here are two that I think will make the most impact.
 #### Recommendation 1: 
